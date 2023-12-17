@@ -1,4 +1,8 @@
-### Hi there 👋
+### Denys Dovzhenko
+
+`Digital Craftsman (Developer)`
+
+Passionate React Native developer | Advocate for clean, idiomatic JavaScript | Async aficionado using promises & async/await | Error ninja with try-catch mastery | Lover of functional expressions | Committed to code cleanliness with ESLint & Prettier | Prefers leveraging existing libraries for efficient solutions.
 
 <!--
 **DenisDov/DenisDov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
