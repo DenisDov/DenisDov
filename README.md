@@ -27,6 +27,7 @@
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/40bf6d16-6cb9-4e94-8d43-0961d4e5cf50" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/48d9f42c-41f9-4526-b5aa-106be20eb6e0" title="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/9483ec48-b3b4-4d91-a5c1-fab53ca60848" title="Zustand" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/a037b324-e025-45a9-b6e0-3cff4c229b81" title="React Hook Form" width="40" height="40"/>&nbsp;
 </div>
 
 ### Stats :
