@@ -1,8 +1,14 @@
-### Denys Dovzhenko
+## Denys Dovzhenko
 
 `Digital Craftsman (Developer)`
 
-Passionate React Native developer | Advocate for clean, idiomatic JavaScript | Async aficionado using promises & async/await | Error ninja with try-catch mastery | Lover of functional expressions | Committed to code cleanliness with ESLint & Prettier | Prefers leveraging existing libraries for efficient solutions.
+- Passionate React Native developer
+- Advocate for clean, idiomatic JavaScript
+- Async aficionado using promises & async/await
+- Error ninja with try-catch mastery
+- Lover of functional expressions
+- Committed to code cleanliness with ESLint & Prettier
+- Prefers leveraging existing libraries for efficient solutions.
 
 ## Languages and Tools
 
@@ -10,7 +16,6 @@ Passionate React Native developer | Advocate for clean, idiomatic JavaScript | A
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
