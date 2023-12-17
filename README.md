@@ -17,9 +17,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/f27fb700-ee75-4137-b360-80b42c4703a5" title="Expo "width="40" height="40"/>&nbsp;
-  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/728a0d87-9026-4ec1-ba59-1c374c40bec9" title="Astro"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/728a0d87-9026-4ec1-ba59-1c374c40bec9" title="Astro"width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/e769e588-bf0e-4718-8e86-9c42e92856c4" title="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/7fe0e04a-47bb-4d53-bd9c-565d36e36cb8" title="NodeJS"width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/a1305fba-9be4-42af-9ea4-98bf37d7c0dd" title="Jest" width="40" height="40"/>&nbsp;
