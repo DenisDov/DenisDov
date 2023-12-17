@@ -24,6 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenisDov&theme=transparent)](https://git.io/streak-stats)
 <!--
 **DenisDov/DenisDov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
