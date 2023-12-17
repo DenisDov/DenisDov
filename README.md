@@ -21,8 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/e769e588-bf0e-4718-8e86-9c42e92856c4" title="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/7fe0e04a-47bb-4d53-bd9c-565d36e36cb8" title="NodeJS"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/a1305fba-9be4-42af-9ea4-98bf37d7c0dd" title="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/40bf6d16-6cb9-4e94-8d43-0961d4e5cf50" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/9483ec48-b3b4-4d91-a5c1-fab53ca60848" title="Zustand" width="40" height="40"/>&nbsp;
 </div>
