@@ -29,7 +29,7 @@
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/9483ec48-b3b4-4d91-a5c1-fab53ca60848" title="Zustand" width="40" height="40"/>&nbsp;
 </div>
 
-### Stats :
+### Stats
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DenisDov&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DenisDov&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
