@@ -10,7 +10,7 @@
 - Committed to code cleanliness with ESLint & Prettier
 - Prefers leveraging existing libraries for efficient solutions.
 
-## Languages and Tools
+### Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
