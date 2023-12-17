@@ -3,10 +3,10 @@
 `Digital Craftsman (Developer)`
 
 - Passionate React Native developer
-- Advocate for clean, idiomatic JavaScript
+- Advocate for clean, idiomatic TypeScript
 - Async aficionado using promises & async/await
-- Error ninja with try-catch mastery
 - Lover of functional expressions
+- Error ninja with try-catch mastery
 - Committed to code cleanliness with ESLint & Prettier
 - Prefers leveraging existing libraries for efficient solutions.
 
