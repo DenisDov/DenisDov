@@ -2,7 +2,7 @@
 
 `Digital Craftsman (Developer)`
 
-- Passionate React Native developer
+- Passionate React Native / web developer
 - Advocate for clean, idiomatic TypeScript
 - Async aficionado using promises & async/await
 - Lover of functional expressions
