@@ -13,7 +13,7 @@
 ### Languages and Tools
 
 <div>
-  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/9af4ec8b-39e6-47fd-a865-13426c4af737" title="TypeScript"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/19b497f0-5121-44a3-8f37-6dd34d6f6f12" title="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/f27fb700-ee75-4137-b360-80b42c4703a5" title="Expo "width="40" height="40"/>&nbsp;
