@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/7fe0e04a-47bb-4d53-bd9c-565d36e36cb8" title="NodeJS"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/9483ec48-b3b4-4d91-a5c1-fab53ca60848" title="Zustand"width="40" height="40"/>&nbsp;
 </div>
 
 ### Stats :
