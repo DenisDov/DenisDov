@@ -28,7 +28,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DenisDov&theme=transparent)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **DenisDov/DenisDov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
