@@ -14,7 +14,7 @@
 
 <div>
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/19b497f0-5121-44a3-8f37-6dd34d6f6f12" title="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DenisDov/DenisDov/assets/13405393/acb46a50-4f00-4c5f-8869-cb11b7777629" title="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/f27fb700-ee75-4137-b360-80b42c4703a5" title="Expo "width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
