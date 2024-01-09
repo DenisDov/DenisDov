@@ -2,13 +2,7 @@
 
 `Digital Craftsman (Developer)`
 
-- Passionate React Native / web developer
-- Advocate for clean, idiomatic TypeScript
-- Async aficionado using promises & async/await
-- Lover of functional expressions
-- Error ninja with try-catch mastery
-- Committed to code cleanliness with ESLint & Prettier
-- Prefers leveraging existing libraries for efficient solutions.
+Greetings! With more than 8 years of diverse software development experience, I am currently immersed in the realms of React Native and React (NextJS). While my primary focus lies in frontend development, my journey includes significant stints in full-stack development as well.
 
 ### Languages and Tools
 
