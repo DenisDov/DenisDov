@@ -6,4 +6,4 @@ Senior software engineer with 10+ years of experience building production web an
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,go,graphql,redux,postgres,redis,supabase,html,sass,tailwind,svg,git,docker,jest,postman,sentry)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,go,graphql,redux,postgres,supabase,html,sass,tailwind,svg,docker,jest,postman,sentry)](https://skillicons.dev)
