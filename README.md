@@ -2,7 +2,7 @@
 
 `Digital Craftsman (Developer)`
 
-Greetings! With more than 10 years of diverse software development experience, I am currently immersed in the realms of React Native and React (NextJS). While my primary focus lies in frontend development, my journey includes significant stints in full-stack development as well.
+Greetings! With more than 10 years of diverse software development experience, I am currently immersed in the realms of React Native and Golang. While my primary focus lies in frontend development, my journey includes significant stints in full-stack development as well.
 
 ### Languages and Tools
 
