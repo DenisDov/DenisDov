@@ -24,6 +24,7 @@ Greetings! With more than 8 years of diverse software development experience, I 
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/f889660f-69e0-4c42-bdab-8e9be2d9862a" title="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/9f018e59-699f-4797-8610-d1bdef8d3b19" title="graphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenisDov/DenisDov/assets/13405393/d36ae895-9cd5-4f03-a5c4-140defe7432c" title="SQL" width="40" height="40"/>&nbsp;
+  <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 </div>
 
 ### Stats
