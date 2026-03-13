@@ -2,7 +2,7 @@
 
 `Digital Craftsman (Developer)`
 
-Greetings! With more than 10 years of diverse software development experience, I am currently immersed in the realms of React Native and Golang. While my primary focus lies in frontend development, my journey includes significant stints in full-stack development as well.
+Senior software engineer with 10+ years of experience building production web and mobile applications. Specializing in React Native, TypeScript, and mobile architecture, with additional full-stack experience developing backend services in Go (Golang). Passionate about performance, clean architecture, and delivering reliable mobile experiences at scale.
 
 ### Languages and Tools
 
