@@ -9,7 +9,7 @@ architecture, React Native development, backend services, and release pipelines.
 I create systems from scratch and stabilize existing ones — and when the product
 needs it, I build Go services to support the mobile layer.
 
-**Currently:** deepening Go expertise and exploring hardware integrations(BLE / ESP32 microcontrollers) with React Native.
+**Currently:** deepening Go expertise and exploring hardware integrations(BLE / ESP32 microcontrollers).
 
 **Open to Senior React Native roles** — remote.
 
