@@ -23,6 +23,6 @@ Proprietary mobile apps — full case studies on [my site](https://denysdovzhenk
 
 **Open to: Senior `React Native` roles** — remote.
 
-### Languages and Tools
+## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,go,graphql,redux,postgres,supabase,html,sass,tailwind,svg,docker,jest,postman,sentry)](https://skillicons.dev)
