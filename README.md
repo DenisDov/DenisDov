@@ -1,6 +1,6 @@
 # Denys Dovzhenko
 
-**Senior Software Engineer — `React Native`, `TypeScript`, `Go`**
+**Senior Software Engineer — `React Native` · `TypeScript` · `Go`.**
 
 I architect, build, and ship mobile applications end-to-end — from idea to App Store.
 
@@ -12,11 +12,9 @@ needs it, I build `Go` services to support the mobile layer.
 **Currently:** deepening `Go` expertise and exploring hardware integrations
 (`BLE` / `ESP32` microcontrollers).
 
-**Open to Senior `React Native` roles** — remote.
+**Open to: Senior `React Native` roles** — remote.
 
 **Website:** [denysdovzhenko.netlify.app](https://denysdovzhenko.netlify.app) — case studies of my work.
-
-**Location:** Kyiv, UA.
 
 ### Languages and Tools
 
