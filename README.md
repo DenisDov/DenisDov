@@ -9,6 +9,10 @@ architecture, React Native development, backend services, and release pipelines.
 I create systems from scratch and stabilize existing ones — and when the product
 needs it, I build Go services to support the mobile layer.
 
+[denysdovzhenko.netlify.app](https://denysdovzhenko.netlify.app) — case studies of my work
+
+Kyiv, UA · Open to Senior React Native roles
+
 ### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,go,graphql,redux,postgres,supabase,html,sass,tailwind,svg,docker,jest,postman,sentry)](https://skillicons.dev)
