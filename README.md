@@ -12,6 +12,15 @@ needs it, I build `Go` services to support the mobile layer.
 **Currently:** deepening `Go` expertise and exploring hardware integrations
 (`BLE` / `ESP32` microcontrollers).
 
+## Selected Work
+
+Proprietary mobile apps — full case studies on [my site](https://denysdovzhenko.netlify.app/).
+
+- **[KetoBM](https://denysdovzhenko.netlify.app/projects/ketobm/)** — companion app for a Bluetooth glucose/ketone meter with auto-sync, trends, and charts.
+- **[Swivl](https://denysdovzhenko.netlify.app/projects/swivl/)** — B2B field service platform: scheduling, dispatch, CRM, invoicing, and payments.
+- **[Aspect Pro](https://denysdovzhenko.netlify.app/projects/aspect-pro/)** — `React Native` app controlling an LED matrix over `BLE`, from device discovery to real-time color control.
+- **[Supermarket Prices](https://denysdovzhenko.netlify.app/projects/supermarket-prices/)** — barcode scanner that finds the cheapest store for a product or a whole basket.
+
 **Open to: Senior `React Native` roles** — remote.
 
 **Website:** [denysdovzhenko.netlify.app](https://denysdovzhenko.netlify.app) — case studies of my work.
