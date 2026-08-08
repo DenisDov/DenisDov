@@ -27,4 +27,4 @@ and sensor-based IoT projects.
 
 `React Native` · `Expo` · `TypeScript` · `Go` · `PostgreSQL` · `Redis` · `Docker` · `GraphQL` · `ESP32`
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,swift,kotlin,go,postgres,redis,graphql,docker,githubactions,arduino&perline=12)](https://skillicons.dev)
+[![My Skills](https://i.icoziv.workers.dev/icons?i=reactnative,expo,typescript,swift,kotlin,go,postgresql,redis,graphql,docker,githubactions,arduino&perline=12)](https://github.com/thuongtruong109/icoziv)
