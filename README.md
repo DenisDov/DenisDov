@@ -25,6 +25,6 @@ and sensor-based IoT projects.
 
 ## Stack
 
-`React Native` · `Expo` · `TypeScript` · `Go` · `PostgreSQL` · `Docker` · `GraphQL` · `Redux`
+`React Native` · `Expo` · `TypeScript` · `Go` · `PostgreSQL` · `Redis` · `Docker` · `GraphQL` · `ESP32`
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,go,graphql,redux,postgres,supabase,html,sass,tailwind,svg,docker,jest,postman,sentry)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,swift,kotlin,go,postgres,redis,graphql,docker,githubactions,arduino&perline=12)](https://skillicons.dev)
