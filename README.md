@@ -21,7 +21,7 @@ and — lately — the hardware it talks to.
 **Currently:** exploring embedded development — `ESP32`, `BLE` communication,
 and sensor-based IoT projects.
 
-**Open to: Senior `React Native` roles** — remote.
+**Open to: Senior `React Native` and `Go` backend roles** — remote.
 
 ## Stack
 
