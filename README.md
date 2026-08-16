@@ -1,6 +1,6 @@
 # Denys Dovzhenko
 
-**Senior Software Engineer — `React Native` · `TypeScript` · `Go` | Mobile, Backend & IoT**
+**Senior Software Engineer — `React Native` · `TypeScript` · `Go`**
 
 10+ years building and shipping production mobile apps end-to-end — from idea
 to App Store and Google Play. I design scalable mobile architectures, integrate
