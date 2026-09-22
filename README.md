@@ -2,11 +2,11 @@
 
 **Full-Stack Engineer — `React Native` · `TypeScript` · `Go`**
 
-10+ years building and shipping production mobile apps end-to-end — from idea
-to App Store and Google Play. I design scalable mobile architectures, integrate
+10+ years building and shipping production web/mobile apps end-to-end — from idea
+to release. I design scalable web/mobile architectures, integrate
 backend services, and stabilize systems others have built.
 
-I like owning the complete system: the mobile experience, the API behind it,
+I like owning the complete system: the web/mobile experience, the API behind it,
 and — lately — the hardware it talks to.
 
 ## What I do
